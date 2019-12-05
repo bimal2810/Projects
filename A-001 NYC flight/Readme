@@ -1,0 +1,29 @@
+# NYC_FLIGHT_EDA
+
+Exploratory Data analysis of New York Flight data.
+
+The aim is to get strong insights which can lead to improve the performance of NYC flights
+
+the csv file has only 200 data points(due to 25MB limit in Github)
+
+the analysis went through the following way:
+
+Grouped data based on Carrier name
+departure and arrival delays are crossed checked
+NA values in above are found using the equation : speed = distance/time
+and filled the values per carrier
+
+after filling the NA values removed the ouliers using dropna() function.
+
+then analysed the monthly carrier characteristics, departure and arrival delay
+and I could find that most of the flights departure before time
+
+and the some of the flights had a delay of 12 hours which is a very bad.
+
+I could find the months which have good carrier delay and best performers
+
+Moreover, better insights could be drawn from the data. I believe these insight could make more millions in the industry.
+
+Thank you for your time
+Best Regards,
+Bimal
