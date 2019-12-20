@@ -21,51 +21,51 @@ Sample Data is copied here
 
 ### #### *Findings from data *
 
- - #####  Top 10 destinations from NYC
+ #####  Top 10 destinations from NYC
 
 ![Top 10 destinations](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/2.PNG?raw=true "Top 10 destinations")
 
 - ATL had 12.21% number of flights from NYC followed by ORD 12.02%.
 
-- ##### Monthly Carrier Analysis
+##### Monthly Carrier Analysis
 
 - The monthly carrier characteristics, departure and arrival delay, I could find that most of the flights departure before time and the some of the flights had a delay of 12 hours which is a very bad.
 
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/3.PNG?raw=true)
 
-- ##### Which carrier transits maximum passengers
+##### Which carrier transits maximum passengers
 
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/4.PNG?raw=true)
 
-- ##### Which were the frequently travelled destinations
+##### Which were the frequently travelled destinations
 
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/5.PNG?raw=true)
 
-- ##### What does departure delay data says?
+##### What does departure delay data says?
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/6.PNG?raw=true)
 
-- ##### What does arrival delay data says?
+##### What does arrival delay data says?
 
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/7.PNG?raw=true)
 
-- ##### Departure delay and arrival delay
+##### Departure delay and arrival delay
 
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/8.PNG?raw=true)
 
-- #####How much is the arrival delay per carrier
+#####How much is the arrival delay per carrier
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/10.PNG?raw=true)
 
-- ##### How much is the monthly delay
+#####How much is the monthly delay
 
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/11.PNG?raw=true)
 
-- ##### Speed V/S On-time arrival
+##### Speed V/S On-time arrival
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/12.PNG?raw=true)
 
-- ##### Density of departure and arrival delay
+##### Density of departure and arrival delay
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/13.PNG?raw=true)
 
-- ##### Conclusion
+##### Conclusion
 
 - I believe these insight could make more millions in the industry
 
