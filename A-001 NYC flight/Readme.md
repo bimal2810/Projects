@@ -18,8 +18,7 @@ Sample Data is copied here
 ![](https://github.com/bimal2810/Projects/blob/master/A-001%20NYC%20flight/images/data.PNG?raw=true)
 
 
-
-### #### *Findings from data *
+### Findings from data
 
  #####  Top 10 destinations from NYC
 
@@ -52,10 +51,10 @@ Sample Data is copied here
 
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/8.PNG?raw=true)
 
-#####How much is the arrival delay per carrier
+##### How much is the arrival delay per carrier
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/10.PNG?raw=true)
 
-#####How much is the monthly delay
+##### How much is the monthly delay
 
 ![](https://github.com/bimal2810/Projects/blob/588db436ee97a308f12a48a86671eb0bd06bb643/A-001%20NYC%20flight/images/11.PNG?raw=true)
 
