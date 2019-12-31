@@ -1,5 +1,5 @@
 
-# Exploratory Data analysis of New York Flight data.
+# Exploratory Data analysis of New York  City Flight data.
 
 The analysis went through the following way:
 
